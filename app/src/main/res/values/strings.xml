@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListaMarinic</string>
+
+    <string name="crypto_details">Crypto Details</string>
+    <string name="more">More</string>
+    <string name="supply">Circulating Supply</string>
+    <string name="broadcast">Send Broadcast</string>
+    <string name="fade_in">"Fade in "</string>
+    <string name="picture">Picture</string>
+</resources>

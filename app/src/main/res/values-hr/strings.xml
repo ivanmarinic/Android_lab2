@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListaMarinic</string>
+    <string name="crypto_details">Detalji o kriptovaluti</string>
+    <string name="more">Vise</string>
+    <string name="supply">Opticaj</string>
+</resources>
